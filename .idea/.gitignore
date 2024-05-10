@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+/target/
+/build/
+/bin/
+.gradle
+*.class
+!gradle-wrapper.jar
+.DS_Store
